@@ -1,8 +1,8 @@
 <!--
  * @Author: Nithendo
  * @Date: 2024-07-18 14:37:39
- * @LastEditors: Nithendo
- * @LastEditTime: 2024-07-18 14:47:54
+ * @LastEditors: Nintendo
+ * @LastEditTime: 2024-07-23 20:37:55
  * @Description: 
 -->
 # `makdownlint-cofnig`
@@ -12,7 +12,7 @@
 ## Usage
 
 ```
-        const makdownlintCofnig = require('makdownlint-cofnig');
+const makdownlintCofnig = require('makdownlint-cofnig');
 
 // TODO: DEMONSTRATE API
 ```
