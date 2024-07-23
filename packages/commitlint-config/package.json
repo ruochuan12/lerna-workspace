@@ -1,0 +1,25 @@
+{
+  "name": "commitlint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Nintendo <3550505854@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/rapsai/lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/commitlint-config.test.js"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "4.5.0"
+  }
+}

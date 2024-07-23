@@ -1,0 +1,22 @@
+{
+  "name": "makdownlint-cofnig",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Nithendo <3550505854@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/makdownlint-cofnig.test.js"
+  }
+}
