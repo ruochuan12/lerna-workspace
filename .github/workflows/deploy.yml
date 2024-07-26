@@ -18,7 +18,7 @@ jobs:
               run: |
                   node -v
                   npm -v
-                  npm i -g pnpm
+                  npm i -g pnpm --no-fund
                   pnpm run init
                   pnpm run docs:build
               env:
