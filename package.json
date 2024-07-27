@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "packages": [
+    "packages/*"
+  ],
   "dependencies": {
     "conventional-changelog-conventionalcommits": "4.5.0",
     "markdownlint": "0.28.1",
