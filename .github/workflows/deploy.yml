@@ -13,7 +13,7 @@ jobs:
             - name: 安装 pnpm
               uses: pnpm/action-setup@v4
               with:
-                  version: 8
+                  version: 8.6.0
                   run_install: true
             - name: lock npm version
               uses: actions/setup-node@v4
